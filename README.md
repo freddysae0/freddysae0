@@ -1,13 +1,23 @@
 # 💫 About Me:
-Desde que tenía 14 años, me he enamorado de la web. Comencé aprendiendo **HTML**, **CSS**, **JavaScript** y luego pasé a crear páginas **PHP** completas y aplicaciones web dinámicas. 🌐💻
-Descubrir frameworks de JavaScript como **Vue** y **React** fue un gran salto. 🚀 No solo me hicieron la vida más fácil y eficiente, sino que también me enseñaron las mejores prácticas en codificación, diseño y seguridad. 🛠️🔒
-Pasé mucho tiempo aprendiendo más sobre estos frameworks y adquiriendo otras habilidades de programación. 📚💡
-Participar en competencias de programación en la escuela secundaria siempre me fascinó con el mundo de la codificación y la tecnología. 🎓💡
-Competir en eventos como el **ICPC**, la **OCI** (Olimpíada Cubana de Informática) y el **USACO** (Olimpíada de Informática de USA) no solo mejoró mis habilidades de codificación, sino que también me enseñó a trabajar en equipo y resolver problemas. 🤝🧩
-Estas experiencias me prepararon para futuros desafíos en la industria tecnológica, donde la colaboración y la innovación son clave. 🌐💡
-Cuando llegué a la edad adulta, tuve que hacer un año de servicio militar obligatorio. Gracias a Dios, ese servicio me permitió trabajar en una empresa militar dedicada a vender software, donde me tocó hacer el front-end de algunas de sus aplicaciones web. 💻🌐
-Aprendí a trabajar con **Vue.js**, **Vuetify**, **Git**, gestión de equipos, entre otros. 🛠️👥
-Después de probar muchas tecnologías, me di cuenta de que el desarrollo front-end es lo que más me gusta. 💻🚀
+Since I was 14 years old, I have fallen in love with the web. I started by learning **HTML**, **CSS**, **JavaScript** and then moved on to creating full **PHP** pages and dynamic web applications. 🌐💻<br/>
+
+Discovering JavaScript frameworks like **Vue** and **React** was a big leap. 🚀 Not only did they make my life easier and more efficient, but they also taught me best practices in coding, design, and security. 🛠️🔒<br/>
+
+I spent a lot of time learning more about these frameworks and acquiring other programming skills. 📚💡<br/>
+
+Participating in programming competitions in high school always fascinated me with the world of coding and technology. 🎓💡<br/>
+
+Competing in events like **ICPC**, **OCI** (Cuban Computer Science Olympiad) and **USACO** (USA Computer Science Olympiad) not only improved my coding skills, but also taught me to work as a team and solve problems. 🤝  <br/>
+
+These experiences prepared me for future challenges in the technology industry, where collaboration and innovation are key. 🌐💡<br/>
+
+When I became an adult, I had to do a year of mandatory military service. Thank God, that service allowed me to work for a military company dedicated to selling software, where I had to do the front-end of some of their web applications. 💻🌐<br/>
+
+I learned to work with **Vue.js**, **Vuetify**, **Git**, team management, among others. 🛠️👥<br/>
+
+After trying many technologies, I realized that front-end development is what I like the most. 💻🚀<br/>
+
+
 
 
 # 💻 Tech Stack:
