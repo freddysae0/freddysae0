@@ -26,7 +26,7 @@
 | [**raval-fighter**](https://github.com/freddysae0/raval-fighter) | Pixel art arcade fighting game set in El Raval, Barcelona. HTML5 Canvas + WebAudio. |
 | [**Apolos Bible**](https://github.com/Apolos-Bible/apolos-bible) | A desktop Bible study app built for focus, depth and collaboration. [apolos.bible](https://apolos.bible) |
 | [**co-creators**](https://github.com/freddysae0/co-creators) | My Claude Code agents, installable in any project. |
-| [**threejs-aim-trainer**](https://github.com/freddysae0/threejs-aim-trainer) | Aim trainer made with Three.js, the seed of [Redblock](https://github.com/Redblock-Online/redblock-client). |
+| [**threejs-aim-trainer**](https://github.com/freddysae0/threejs-aim-trainer) | FPS aim trainer in the browser, made with Three.js. |
 
 ## 🤝 Open source contributions
 
