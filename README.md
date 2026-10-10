@@ -35,8 +35,8 @@ Merged pull requests in projects I don't own. Updated daily by a [GitHub Action]
 <!-- CONTRIBUTIONS:START -->
 | Project | | Merged PRs | Last merged |
 | :-- | :-- | --: | :-- |
-| [**srothgan/claude-code-rust**](https://github.com/srothgan/claude-code-rust)<br><sub>A native Rust terminal interface for Claude Code</sub> | ⭐ 261 · Rust | [2](https://github.com/srothgan/claude-code-rust/pulls?q=is%3Apr%20is%3Amerged%20author%3Afreddysae0) | 2026-10 |
-| [**ProjectHax/muxel**](https://github.com/ProjectHax/muxel)<br><sub>muxel is a GPUI-native multiplexer for coding agents</sub> | ⭐ 32 · Rust | [2](https://github.com/ProjectHax/muxel/pulls?q=is%3Apr%20is%3Amerged%20author%3Afreddysae0) | 2026-10 |
+| [**srothgan/claude-code-rust**](https://github.com/srothgan/claude-code-rust)<br><sub>A native Rust terminal interface for Claude Code</sub> | ⭐ 260 · Rust | [2](https://github.com/srothgan/claude-code-rust/pulls?q=is%3Apr%20is%3Amerged%20author%3Afreddysae0) | 2026-10 |
+| [**ProjectHax/muxel**](https://github.com/ProjectHax/muxel)<br><sub>muxel is a GPUI-native multiplexer for coding agents</sub> | ⭐ 32 · Rust | [3](https://github.com/ProjectHax/muxel/pulls?q=is%3Apr%20is%3Amerged%20author%3Afreddysae0) | 2026-10 |
 | [**Redblock-Online/redblock-client**](https://github.com/Redblock-Online/redblock-client)<br><sub>First Open Source Aim Trainer and World Builder for FPS players. Built with Three.js to push the limits of skill and design.</sub> | ⭐ 24 · TypeScript | [31](https://github.com/Redblock-Online/redblock-client/pulls?q=is%3Apr%20is%3Amerged%20author%3Afreddysae0) | 2025-12 |
 | [**Apolos-Bible/apolos-bible**](https://github.com/Apolos-Bible/apolos-bible)<br><sub>A desktop Bible study app built for focus, depth, and collaboration.</sub> | ⭐ 1 · TypeScript | [105](https://github.com/Apolos-Bible/apolos-bible/pulls?q=is%3Apr%20is%3Amerged%20author%3Afreddysae0) | 2026-09 |
 <!-- CONTRIBUTIONS:END -->
